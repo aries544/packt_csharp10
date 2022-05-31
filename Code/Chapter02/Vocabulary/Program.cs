@@ -34,4 +34,4 @@ char letter = 'A'; //asigning literal characters
 char digit = '1';
 char symbol = '$';
 string firstName = "Bob";
-string lastName
+string lastName = "Sponge";
